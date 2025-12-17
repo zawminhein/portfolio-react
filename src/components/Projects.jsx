@@ -2,6 +2,14 @@ import React from "react"
 
 const projects = [
   {
+    title: "Intern Project",
+    image: "/assets/project_img/NPLPH-movie.png",
+    description: "Movie browsing app built during internship.",
+    tech: ["Laravel-Initia-React", "Tailwind"],
+    live: "#",
+    github: "https://github.com/zawminhein/NPLPH_movie.git",
+  },
+  {
     title: "User Management App",
     image: "/assets/project_img/PhP.jpg",
     description: "Admin dashboard for managing users, roles, and permissions.",
@@ -24,14 +32,6 @@ const projects = [
     tech: ["React", "Tailwind"],
     live: "#",
     github: "https://github.com/zawminhein/React-Movie-App.git",
-  },
-  {
-    title: "Movie App",
-    image: "/projects/movie-app.png",
-    description: "Browse and search movies using external API.",
-    tech: ["React", "Tailwind"],
-    live: "#",
-    github: "#",
   },
   {
     title: "Movie App",
