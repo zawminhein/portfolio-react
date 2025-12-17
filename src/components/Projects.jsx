@@ -33,14 +33,6 @@ const projects = [
     live: "#",
     github: "https://github.com/zawminhein/React-Movie-App.git",
   },
-  {
-    title: "Movie App",
-    image: "/projects/movie-app.png",
-    description: "Browse and search movies using external API.",
-    tech: ["React", "Tailwind"],
-    live: "#",
-    github: "#",
-  },
 ]
 
 export default function Projects() {
